@@ -1,0 +1,12 @@
+:root {
+  --theme-primary: var(--color-primary-100);
+  --theme-secondary: var(--color-secondary-100);
+  --theme-surface: var(--color-neutral-0);
+  --theme-surface-alt: var(--color-neutral-100);
+  --theme-text: var(--color-text-primary);
+  --theme-text-subtle: var(--color-text-subtler);
+  --theme-border: var(--color-neutral-200);
+  --theme-error: var(--color-error-100);
+  --theme-success: var(--color-success-100);
+  --theme-warning: var(--color-warning-100);
+}
